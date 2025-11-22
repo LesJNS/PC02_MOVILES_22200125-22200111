@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926147562086",
+    "project_id": "pc2moviles-4c922",
+    "storage_bucket": "pc2moviles-4c922.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926147562086:android:902e81ebdafebecf21bba7",
+        "android_client_info": {
+          "package_name": "com.example.pc02_moviles_22200125_22200111"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw-6XjJwQmqmXQUdI8Ozg3You05190pTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
